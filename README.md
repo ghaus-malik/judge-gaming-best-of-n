@@ -124,6 +124,6 @@ Companion projects with the same samples and harness:
   author = {Muhammad Ghaus Malik},
   title  = {How Far Can an LLM Judge Be Gamed? Best-of-n Against Hidden Unit Tests},
   year   = {2026},
-  note   = {Pilot study, code and data}
+  note   = {Code and data}
 }
 ```
