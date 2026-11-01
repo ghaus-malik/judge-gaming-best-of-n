@@ -1,0 +1,4 @@
+- pass rate at n=16, mean(A,B) selector minus judge A selector: +0.050 (95% CI -0.020 to +0.120), n=100
+- pass rate at n=16, mean(A,B) selector minus judge B selector: +0.040 (95% CI -0.020 to +0.100), n=100
+- judge A selector, n=16 minus n=8: -0.029 (95% CI -0.065 to +0.006), n=100
+- A/B disagreement on judge A's pick, n=16 minus n=1: -0.210 (95% CI -0.267 to -0.151), n=100
